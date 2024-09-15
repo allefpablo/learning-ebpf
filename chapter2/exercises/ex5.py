@@ -30,5 +30,5 @@ while True:
     sleep(2)
     s = ""
     for k,v in b["counter_table"].items():
-        s += f"SYCALL {k.value}: {v.value}\t"
+        s += f"SYSCALL {k.value}: {v.value}\t"
     print(s)
