@@ -31,7 +31,7 @@ these examples have been tested on an Ubuntu 22.04 distribution using a 5.15 ker
 ### Install this repo
 
 ```sh
-git clone --recurse-submodules https://github.com/lizrice/learning-ebpf
+git clone --recurse-submodules https://github.com/allefpablo/learning-ebpf
 cd learning-ebpf
 ```
 
