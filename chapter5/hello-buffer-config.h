@@ -6,3 +6,6 @@ struct data_t {
    char path[16];
 };
 
+struct user_msg_t {
+   char message[12];
+};
